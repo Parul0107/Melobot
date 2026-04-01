@@ -26,7 +26,7 @@ import time
 # =========================
 # 🔑 PUT NEW KEYS HERE
 # =========================
-DISCORD_TOKEN = "MTQ4ODc3NjM3NDMwMTg4NDQxNw.G_ueqa.aOlCoH7dExJ2S0lXcEycfBAQe75Ev_DZUcbqtw"
+DISCORD_TOKEN = "MTQ4ODc3NjM3NDMwMTg4NDQxNw.G6kQrE.8D0Apu9czBtdo8Qolw9LO7eu_niVHRbpOf9U_4"
 OPENROUTER_API_KEY = "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"
 
 # =========================
